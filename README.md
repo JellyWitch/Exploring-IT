@@ -1,2 +1,2 @@
 # Exploring-IT
-For learning basics
+Changed text
